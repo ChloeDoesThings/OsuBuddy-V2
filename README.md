@@ -1,5 +1,4 @@
-### PLEASE DO NOT ASK TAIKOBUDDY FOR SUPPORT, THIS IS CRACKED AND OLD VERSION! HE PROBABLY WON'T HELP YOU WITH THIS!
-# OsuBuddy-reversed
+# OsuBuddy-V2
 Basically helps you aim/tap in osu!standard depending on what you use. Kinda like a mod menu.
 
 # What is OsuBuddy?
