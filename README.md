@@ -1,6 +1,6 @@
 ### PLEASE DO NOT ASK TAIKOBUDDY FOR SUPPORT, THIS IS CRACKED AND OLD VERSION! HE PROBABLY WON'T HELP YOU WITH THIS!
 # OsuBuddy-reversed
-osu!STD A-I-O Cheat<br>Thank you, kat. for the *reversed* files.
+Basically helps you aim/tap in osu!standard depending on what you use. Kinda like a mod menu.
 
 # What is OsuBuddy?
 OsuBuddy is an all in one cheat for osu!Standard, it's **UNDETECTABLE** if used properly.
